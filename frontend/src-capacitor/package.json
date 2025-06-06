@@ -1,0 +1,11 @@
+{
+  "name": "myfoodgrs",
+  "version": "0.0.1",
+  "description": "Group Recommender System For MyFood",
+  "author": "Hanif.Emamgholizadeh <hanif.emamgholizadeh@unibz.it>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0"
+  }
+}

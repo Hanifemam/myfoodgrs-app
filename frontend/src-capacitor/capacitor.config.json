@@ -1,0 +1,7 @@
+{
+  "appId": "2023",
+  "appName": "MyFoodGRS",
+  "bundledWebRuntime": false,
+  "npmClient": "[object Object]",
+  "webDir": "www"
+}

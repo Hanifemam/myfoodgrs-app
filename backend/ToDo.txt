@@ -1,0 +1,4 @@
+Ranking analysis
+Time consumption
+Analysis Data
+Analysis of the poor performance of the system with respect to info level
